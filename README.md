@@ -1,4 +1,6 @@
-<h3 align="center">✨ Tech Stack ✨</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=C3E5AE&height=280&section=header&text=Kimyoohyeon&desc=Frontend%20Develope&fontSize=50&fontAlignY=40&descAlignY=55&fontAlign=20&descAlign=12)
+
+<h3 align="center">🌐 Technology Stack 🌐 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -31,7 +33,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🛠 Tool 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
