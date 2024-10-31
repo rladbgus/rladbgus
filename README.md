@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=300&section=header&text=Kimyoohyeon&desc=Frontend%20Develope&fontSize=50&fontAlignY=40&descAlignY=55&fontAlign=20&descAlign=12)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B6DCB6&height=300&section=header&text=Kimyoohyeon&desc=Frontend%20Develope&fontSize=50&fontAlignY=40&descAlignY=55&fontAlign=20&descAlign=12)
 
 <h3 align="center">🌐 Technology Stack 🌐 </h3>
 <div align="center">
